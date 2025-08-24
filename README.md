@@ -18,7 +18,6 @@ Visualize the global spread on an interactive map.
 Switch between light/dark themes for better readability.
 
 
-
 📂 Dataset
 
 The datasets used are sourced from Johns Hopkins University CSSE and cleaned versions available on Kaggle.
@@ -36,7 +35,7 @@ worldometer_data.csv – Supplementary worldometer data.
 
 🚀 Features
 
-📌 Summary Cards: Quick view of confirmed, deaths, recovered, and active cases.
+Summary Cards: Quick view of confirmed, deaths, recovered, and active cases.
 
 🌍 Global Trends Tab:
 
@@ -61,8 +60,7 @@ Pie chart breakdown of total cases.
 
 
 
-
-🛠 Tech Stack
+Technologies Used:
 
 Python 3.8+
 
